@@ -1,0 +1,97 @@
+2025-06-30 15:24:54,259 - mcp - INFO - Initializing MCP configuration...
+2025-06-30 15:26:32,710 - mcp - INFO - Configuration initialized at C:\Users\DELL\.mcp\config.json
+2025-06-30 15:26:32,718 - mcp - WARNING - No GitHub token provided. You can set it later using the GITHUB_TOKEN environment variable.
+2025-06-30 15:26:32,719 - mcp - INFO - Configuration initialized successfully.
+2025-06-30 15:26:59,106 - mcp - INFO - Configuration initialized at C:\Users\DELL\AppData\Local\Temp\tmp5f8osats\.mcp\config.json
+2025-06-30 15:26:59,277 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmps5z3wno9\repo\src\utils
+2025-06-30 15:26:59,279 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmps5z3wno9\repo\src\utils\helper.py
+2025-06-30 15:26:59,308 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmpv5k42cpa\test_dir
+2025-06-30 15:26:59,330 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmpxrrxib9c\test_file.txt
+2025-06-30 15:27:14,441 - mcp - INFO - Cloning repository https://github.com/octocat/Hello-World.git to ./test-repo...
+2025-06-30 15:27:14,443 - mcp - INFO - [DRY RUN] Would clone https://github.com/octocat/Hello-World.git to ./test-repo
+2025-06-30 15:27:29,009 - mcp - INFO - Creating file helper.py in section src/utils...
+2025-06-30 15:27:29,010 - mcp - ERROR - Repository path does not exist: ./test-repo
+2025-06-30 15:27:29,011 - mcp - ERROR - Failed to create file.
+2025-06-30 15:48:15,584 - mcp - INFO - Cloning repository https://github.com/octocat/Hello-World.git to ./test-hello-world...
+2025-06-30 15:48:15,588 - mcp - INFO - Cloning repository https://github.com/octocat/Hello-World.git to ./test-hello-world...
+2025-06-30 15:48:22,472 - mcp - INFO - Successfully cloned repository to ./test-hello-world
+2025-06-30 15:48:22,475 - mcp - INFO - Repository cloned successfully.
+2025-06-30 15:49:10,210 - mcp - INFO - Creating file helper.py in section src/utils...
+2025-06-30 15:49:10,219 - mcp - INFO - Created directory: test-hello-world\src\utils
+2025-06-30 15:49:10,221 - mcp - INFO - Created file: test-hello-world\src\utils\helper.py
+2025-06-30 15:49:10,222 - mcp - INFO - File created successfully.
+2025-06-30 15:50:01,878 - mcp - INFO - Creating file test_helper.py in section tests...
+2025-06-30 15:50:01,879 - mcp - INFO - Created directory: test-hello-world\tests
+2025-06-30 15:50:01,881 - mcp - INFO - Created file: test-hello-world\tests\test_helper.py
+2025-06-30 15:50:01,881 - mcp - INFO - File created successfully.
+2025-06-30 21:58:59,286 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmpis6yrg9a\repo\src\utils
+2025-06-30 21:58:59,288 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmpis6yrg9a\repo\src\utils\helper.py
+2025-06-30 21:58:59,298 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmp5v51rnl3\test_dir
+2025-06-30 21:58:59,307 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmp5znns8wa\test_file.txt
+2025-06-30 22:02:41,453 - mcp - INFO - Configuration initialized at C:\Users\DELL\AppData\Local\Temp\tmphfeegxqb\.mcp\config.json
+2025-06-30 22:02:42,082 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmp5pdt53jr\repo\src\utils
+2025-06-30 22:02:42,086 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmp5pdt53jr\repo\src\utils\helper.py
+2025-06-30 22:02:42,100 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmped3v2uod\test_dir
+2025-06-30 22:02:42,108 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmp3q7zghpk\test_file.txt
+2025-06-30 22:03:32,698 - mcp - INFO - Configuration initialized at C:\Users\DELL\AppData\Local\Temp\tmpwahbp6ym\.mcp\config.json
+2025-06-30 22:03:33,165 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmpfnk518p8\repo\src\utils
+2025-06-30 22:03:33,166 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmpfnk518p8\repo\src\utils\helper.py
+2025-06-30 22:03:33,178 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmp5s4u4mc8\test_dir
+2025-06-30 22:03:33,199 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmpgroqimpl\test_file.txt
+2025-06-30 22:04:16,520 - mcp - INFO - Configuration initialized at C:\Users\DELL\AppData\Local\Temp\tmp0jsywv0f\.mcp\config.json
+2025-06-30 22:04:16,627 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmpgm3xob8v\repo\src\utils
+2025-06-30 22:04:16,628 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmpgm3xob8v\repo\src\utils\helper.py
+2025-06-30 22:04:16,644 - mcp - INFO - Created directory: C:\Users\DELL\AppData\Local\Temp\tmphr69etbi\test_dir
+2025-06-30 22:04:16,654 - mcp - INFO - Created file: C:\Users\DELL\AppData\Local\Temp\tmpphcccui6\test_file.txt
+2025-06-30 22:05:48,818 - mcp - INFO - Cloning repository https://github.com/adiri77/Weather-App.git to ./weather-app-test...
+2025-06-30 22:05:48,820 - mcp - INFO - Cloning repository https://github.com/adiri77/Weather-App.git to ./weather-app-test...
+2025-06-30 22:06:02,730 - mcp - INFO - Successfully cloned repository to ./weather-app-test
+2025-06-30 22:06:02,732 - mcp - INFO - Repository cloned successfully.
+2025-06-30 22:06:32,829 - mcp - INFO - Creating file api-helpers.js in section src/utils...
+2025-06-30 22:06:32,831 - mcp - INFO - Created directory: weather-app-test\src\utils
+2025-06-30 22:06:32,833 - mcp - INFO - Created file: weather-app-test\src\utils\api-helpers.js
+2025-06-30 22:06:32,833 - mcp - INFO - File created successfully.
+2025-06-30 22:07:07,760 - mcp - INFO - Creating file api-helpers.test.js in section src/tests...
+2025-06-30 22:07:07,762 - mcp - INFO - Created directory: weather-app-test\src\tests
+2025-06-30 22:07:07,764 - mcp - INFO - Created file: weather-app-test\src\tests\api-helpers.test.js
+2025-06-30 22:07:07,767 - mcp - INFO - File created successfully.
+2025-06-30 22:55:42,134 - mcp - INFO - Cloning repository https://github.com/octocat/Hello-World.git to ./hello-world-test...
+2025-06-30 22:55:42,137 - mcp - INFO - Cloning repository https://github.com/octocat/Hello-World.git to ./hello-world-test...
+2025-06-30 22:55:44,734 - mcp - INFO - Successfully cloned repository to ./hello-world-test
+2025-06-30 22:55:44,737 - mcp - INFO - Repository cloned successfully.
+2025-06-30 22:56:06,168 - mcp - INFO - Creating file Button.js in section src/components...
+2025-06-30 22:56:06,169 - mcp - INFO - Created directory: hello-world-test\src\components
+2025-06-30 22:56:06,172 - mcp - INFO - Created file: hello-world-test\src\components\Button.js
+2025-06-30 22:56:06,172 - mcp - INFO - File created successfully.
+2025-06-30 22:56:46,586 - mcp - INFO - Creating file Button.test.js in section tests/unit...
+2025-06-30 22:56:46,589 - mcp - INFO - Created directory: hello-world-test\tests\unit
+2025-06-30 22:56:46,590 - mcp - INFO - Created file: hello-world-test\tests\unit\Button.test.js
+2025-06-30 22:56:46,591 - mcp - INFO - File created successfully.
+2025-06-30 22:57:43,969 - mcp - INFO - Pushing changes from ./hello-world-test...
+2025-06-30 22:57:44,261 - mcp - INFO - [DRY RUN] Would stage all changes and commit with message: 'Add React components and tests using MCP tool'
+2025-06-30 22:57:44,261 - mcp - INFO - [DRY RUN] Would push to remote repository
+2025-06-30 22:58:07,867 - mcp - INFO - Pushing changes from ./weather-app-test...
+2025-06-30 22:58:07,870 - mcp - ERROR - Path ./weather-app-test is not a valid Git repository
+2025-06-30 22:58:07,870 - mcp - ERROR - Failed to push changes.
+2025-06-30 22:58:28,241 - mcp - INFO - Cloning repository https://github.com/adiri77/Weather-App.git to ./weather-app-final-test...
+2025-06-30 22:58:28,242 - mcp - INFO - Cloning repository https://github.com/adiri77/Weather-App.git to ./weather-app-final-test...
+2025-06-30 22:58:37,419 - mcp - INFO - Successfully cloned repository to ./weather-app-final-test
+2025-06-30 22:58:37,421 - mcp - INFO - Repository cloned successfully.
+2025-06-30 22:58:52,995 - mcp - INFO - Creating file useWeather.js in section src/hooks...
+2025-06-30 22:58:52,997 - mcp - INFO - Created directory: weather-app-final-test\src\hooks
+2025-06-30 22:58:52,998 - mcp - INFO - Created file: weather-app-final-test\src\hooks\useWeather.js
+2025-06-30 22:58:52,999 - mcp - INFO - File created successfully.
+2025-06-30 23:06:05,099 - mcp - INFO - Pushing changes from ./weather-app-final-test...
+2025-06-30 23:06:06,524 - mcp - INFO - [DRY RUN] Would stage all changes and commit with message: 'Add API helper utilities and tests created with MCP tool'
+2025-06-30 23:06:06,525 - mcp - INFO - [DRY RUN] Would push to remote repository
+2025-06-30 23:08:26,320 - mcp - INFO - Creating file README.md in section docs/api...
+2025-06-30 23:08:26,324 - mcp - INFO - Created directory: hello-world-test\docs\api
+2025-06-30 23:08:26,325 - mcp - INFO - Created file: hello-world-test\docs\api\README.md
+2025-06-30 23:08:26,325 - mcp - INFO - File created successfully.
+2025-06-30 23:09:01,187 - mcp - INFO - Initializing MCP configuration...
+2025-06-30 23:09:52,308 - mcp - INFO - Configuration initialization cancelled.
+2025-06-30 23:09:52,309 - mcp - ERROR - Failed to initialize configuration.
+2025-06-30 23:10:53,328 - mcp - INFO - Creating file demo.py in section examples/demo...
+2025-06-30 23:10:53,330 - mcp - INFO - Created directory: examples\demo
+2025-06-30 23:10:53,332 - mcp - INFO - Created file: examples\demo\demo.py
+2025-06-30 23:10:53,332 - mcp - INFO - File created successfully.
