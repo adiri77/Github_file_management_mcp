@@ -120,9 +120,25 @@ class MCPConfig:
     def get_default_branch(self):
         """
         Get default branch from configuration.
-        
+
         Returns:
             str: Default branch name
         """
         config = self.load_config()
         return config.get('default_branch', 'main')
+
+    def get_server_config(self):
+        """
+        Get server configuration settings.
+
+        Returns:
+            dict: Server configuration dictionary
+        """
+        config = self.load_config()
+        return {
+            'host': config.get('server_host', os.getenv('MCP_SERVER_HOST', '127.0.0.1')),
+            'port': int(config.get('server_port', os.getenv('MCP_SERVER_PORT', '8000'))),
+            'api_key': config.get('api_key', os.getenv('MCP_API_KEY', 'mcp-default-key')),
+            'enable_cors': config.get('enable_cors', os.getenv('MCP_ENABLE_CORS', 'true').lower() == 'true'),
+            'log_level': config.get('log_level', os.getenv('MCP_LOG_LEVEL', 'INFO'))
+        }
